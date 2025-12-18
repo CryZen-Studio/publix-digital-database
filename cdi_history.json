@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "userName": "vxcvxvxv",
+    "amount": 185.39,
+    "date": "2025-12-18T16:01:38.018Z",
+    "type": "cdi_payment"
+  }
+]
