@@ -1,0 +1,15 @@
+{
+  "cdiGlobal": {
+    "enabled": true,
+    "interval": 5,
+    "minValue": 3.00,
+    "maxValue": 200.00,
+    "maxChance": 10,
+    "schedule": [0, 1, 2, 3]
+  },
+  "system": {
+    "maintenance": false,
+    "depositEnabled": true,
+    "withdrawEnabled": true
+  }
+}
