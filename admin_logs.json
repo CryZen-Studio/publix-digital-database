@@ -1,9 +1,0 @@
-[
-  {
-    "id": "log001",
-    "userId": "admin001",
-    "action": "system_init",
-    "details": "Sistema inicializado",
-    "timestamp": "2024-01-01T00:00:00.000Z"
-  }
-]
