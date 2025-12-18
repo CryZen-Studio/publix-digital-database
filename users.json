@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Administrador Publix",
+    "email": "admin@publix.com",
+    "password": "Admin@2024",
+    "balance": 10000.00,
+    "invested": 5000.00,
+    "earnings": 2500.00,
+    "withdrawn": 1500.00,
+    "referralCode": "ADMIN2024",
+    "referrals": 50,
+    "commissionBalance": 500.00,
+    "isAdmin": true,
+    "isActive": true,
+    "hasDeposited": true,
+    "cdiConfig": {
+      "enabled": true,
+      "interval": 5,
+      "nextCdi": 1734541200000,
+      "minValue": 3.00,
+      "maxValue": 200.00,
+      "totalEarnings": 1500.00
+    }
+  }
+]
