@@ -7,5 +7,14 @@
     "description": "Rendimento CDI: R$ 194,18",
     "date": "2025-12-18T16:02:53.058Z",
     "status": "completed"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "type": "cdi",
+    "amount": 141.4,
+    "description": "Rendimento CDI: R$ 141,40",
+    "date": "2025-12-18T22:44:26.375Z",
+    "status": "completed"
   }
 ]
