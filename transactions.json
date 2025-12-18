@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "type": "cdi",
+    "amount": 194.18,
+    "description": "Rendimento CDI: R$ 194,18",
+    "date": "2025-12-18T16:02:53.058Z",
+    "status": "completed"
+  }
+]
