@@ -1,5 +1,16 @@
 {
-  "interval": 5,
-  "minValue": 3,
-  "maxValue": 200
+  "cdi": {
+    "INTERVAL_HOURS": 5,
+    "MIN_AMOUNT": 3.00,
+    "MAX_AMOUNT": 200.00
+  },
+  "deposit_bonus": {
+    "10": 1.00,
+    "20": 2.00,
+    "25": 2.50,
+    "50": 5.00
+  },
+  "min_withdraw": 10.00,
+  "min_investment": 25.00,
+  "referral_bonus": 1.00
 }
