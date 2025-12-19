@@ -13,7 +13,8 @@
     "referredBy": null,
     "status": "active",
     "joinDate": "2024-01-01T00:00:00.000Z",
-    "cdiInterval": 5
+    "cdiInterval": 5,
+    "referralCount": 1
   },
   {
     "id": 2,
@@ -29,6 +30,22 @@
     "referredBy": null,
     "status": "active",
     "joinDate": "2025-12-18T03:16:04.431Z",
+    "cdiInterval": 5
+  },
+  {
+    "id": 3,
+    "name": "Igor",
+    "email": "igorzao@gmail.com",
+    "password": "0298",
+    "isAdmin": false,
+    "balance": 0,
+    "totalInvested": 0,
+    "totalEarnings": 0,
+    "totalWithdrawn": 0,
+    "referralCode": "PUB-IS0R-J2II",
+    "referredBy": "ADMIN-001",
+    "status": "active",
+    "joinDate": "2025-12-19T00:49:11.612Z",
     "cdiInterval": 5
   }
 ]
